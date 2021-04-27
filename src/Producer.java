@@ -1,4 +1,4 @@
-public class Producer implements Runnable{
+public class Producer implements Runnable {
 
     PingPong pingPong;
 

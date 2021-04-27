@@ -1,4 +1,4 @@
-public class Consumer implements Runnable{
+public class Consumer implements Runnable {
 
     PingPong pingPong;
 
